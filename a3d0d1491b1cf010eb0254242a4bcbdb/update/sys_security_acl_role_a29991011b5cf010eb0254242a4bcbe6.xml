@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-05-21 18:53:00</sys_created_on>
+        <sys_id>a29991011b5cf010eb0254242a4bcbe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d2899dcd1b1cf010eb0254242a4bcba5.admin</sys_name>
+        <sys_package display_value="Haas May Exec Demo" source="x_snc_haas_may_e_0">a3d0d1491b1cf010eb0254242a4bcbdb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Haas May Exec Demo">a3d0d1491b1cf010eb0254242a4bcbdb</sys_scope>
+        <sys_security_acl display_value="d2899dcd1b1cf010eb0254242a4bcba5">6a899dcde61cf010fe7b9bbbbfa8e4dc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a29991011b5cf010eb0254242a4bcbe6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-05-21 18:53:00</sys_updated_on>
+        <sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
