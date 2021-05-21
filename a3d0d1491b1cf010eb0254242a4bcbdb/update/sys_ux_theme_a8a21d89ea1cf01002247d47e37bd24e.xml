@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme">
+    <sys_ux_theme action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Starter Workspace Theme</name>
+        <parent display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</parent>
+        <sys_class_name>sys_ux_theme</sys_class_name>
+        <sys_created_by>chris.haas@snc</sys_created_by>
+        <sys_created_on>2021-05-21 18:22:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a8a21d89ea1cf01002247d47e37bd24e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Starter Workspace Theme</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Haas May Exec Demo" source="x_snc_haas_may_e_0">a3d0d1491b1cf010eb0254242a4bcbdb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Haas May Exec Demo">a3d0d1491b1cf010eb0254242a4bcbdb</sys_scope>
+        <sys_update_name>sys_ux_theme_a8a21d89ea1cf01002247d47e37bd24e</sys_update_name>
+        <sys_updated_by>chris.haas@snc</sys_updated_by>
+        <sys_updated_on>2021-05-21 18:22:35</sys_updated_on>
+        <theme/>
+    </sys_ux_theme>
+</record_update>

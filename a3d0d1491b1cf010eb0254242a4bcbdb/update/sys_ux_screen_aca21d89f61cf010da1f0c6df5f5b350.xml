@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Haas May Exec Demo Config">eca21d89ff1cf0101ba812b5b598b34d</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Agent assist">195fd4970f0210107d20409dc4767e0a</macroponent>
+        <macroponent_config>{  "isNewRecord" : "@data.gform.nowRecordFormBlob.isNewRecord",  "fields" : "@data.gform.nowRecordFormBlob.fields",  "sysId" : "@data.gform.nowRecordFormBlob.sysId",  "table" : "@data.gform.nowRecordFormBlob.table",  "cxsTableConfig" : "e15061a4b30303002bf182c136a8dc34",  "label" : "",  "bare" : true,  "scrollable" : "y",  "headerLevel" : "1",  "interceptNotifications" : false,  "propagateNotifications" : true}</macroponent_config>
+        <name>Agent Assist</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record">558adc930f0210107d20409dc4767e84</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Agent assist tab">d15fd4970f0210107d20409dc4767e08</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>chris.haas@snc</sys_created_by>
+        <sys_created_on>2021-05-21 18:22:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aca21d89f61cf010da1f0c6df5f5b350</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Agent Assist</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Haas May Exec Demo" source="x_snc_haas_may_e_0">a3d0d1491b1cf010eb0254242a4bcbdb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Haas May Exec Demo">a3d0d1491b1cf010eb0254242a4bcbdb</sys_scope>
+        <sys_update_name>sys_ux_screen_aca21d89f61cf010da1f0c6df5f5b350</sys_update_name>
+        <sys_updated_by>chris.haas@snc</sys_updated_by>
+        <sys_updated_on>2021-05-21 18:22:35</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=aca21d89f61cf010da1f0c6df5f5b350"/>
+</record_update>

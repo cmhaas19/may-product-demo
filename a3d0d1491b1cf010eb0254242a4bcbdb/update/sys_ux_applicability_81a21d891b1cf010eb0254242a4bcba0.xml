@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_snc_haas_may_e_0.Audience for appHaas May Exec Demo</api_name>
+        <description/>
+        <name>Audience for appHaas May Exec Demo</name>
+        <roles name="admin">2831a114c611228501d4ea6c309d626d</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>chris.haas@snc</sys_created_by>
+        <sys_created_on>2021-05-21 18:22:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>81a21d891b1cf010eb0254242a4bcba0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for appHaas May Exec Demo</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Haas May Exec Demo" source="x_snc_haas_may_e_0">a3d0d1491b1cf010eb0254242a4bcbdb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Haas May Exec Demo">a3d0d1491b1cf010eb0254242a4bcbdb</sys_scope>
+        <sys_update_name>sys_ux_applicability_81a21d891b1cf010eb0254242a4bcba0</sys_update_name>
+        <sys_updated_by>chris.haas@snc</sys_updated_by>
+        <sys_updated_on>2021-05-21 18:22:35</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

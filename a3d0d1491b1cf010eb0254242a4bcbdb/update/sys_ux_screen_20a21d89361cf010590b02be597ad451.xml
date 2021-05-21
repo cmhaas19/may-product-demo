@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Haas May Exec Demo Config">eca21d89ff1cf0101ba812b5b598b34d</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Compose Email">b07e59fe7743501033809b306910610c</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Draft Email Page</name>
+        <order>100</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition>table=sys_email_draft</screen_condition>
+        <screen_type display_value="Record">a4a21d89691cf010e989573e08e1744e</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>chris.haas@snc</sys_created_by>
+        <sys_created_on>2021-05-21 18:22:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>20a21d89361cf010590b02be597ad451</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Draft Email Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Haas May Exec Demo" source="x_snc_haas_may_e_0">a3d0d1491b1cf010eb0254242a4bcbdb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Haas May Exec Demo">a3d0d1491b1cf010eb0254242a4bcbdb</sys_scope>
+        <sys_update_name>sys_ux_screen_20a21d89361cf010590b02be597ad451</sys_update_name>
+        <sys_updated_by>chris.haas@snc</sys_updated_by>
+        <sys_updated_on>2021-05-21 18:22:35</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=20a21d89361cf010590b02be597ad451"/>
+</record_update>
